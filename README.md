@@ -3,6 +3,8 @@ ThoughtWorks Studios Mingle-JIRA Connector
 
 Here is the source code for the Mingle-JIRA Connector.
 
+Please see the [Community Site entry](http://community.thoughtworks.com/posts/fa89c0a15e) for more details on the Connector.
+
 Dependencies
 ------------
 
